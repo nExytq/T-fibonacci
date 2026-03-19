@@ -1,0 +1,15 @@
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.AssemblyInfoInputs.cache
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.AssemblyInfo.cs
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.csproj.CoreCompileInputs.cache
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.sourcelink.json
+E:\projects\C#\T-fibonacci\bin\Debug\net10.0\T-fibonacci.exe
+E:\projects\C#\T-fibonacci\bin\Debug\net10.0\T-fibonacci.deps.json
+E:\projects\C#\T-fibonacci\bin\Debug\net10.0\T-fibonacci.runtimeconfig.json
+E:\projects\C#\T-fibonacci\bin\Debug\net10.0\T-fibonacci.dll
+E:\projects\C#\T-fibonacci\bin\Debug\net10.0\T-fibonacci.pdb
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.dll
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\refint\T-fibonacci.dll
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.pdb
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\T-fibonacci.genruntimeconfig.cache
+E:\projects\C#\T-fibonacci\obj\Debug\net10.0\ref\T-fibonacci.dll
