@@ -12,7 +12,6 @@
 
 * **Язык:** C# (.NET Core 10.0)
 * **IDE:** Visual Studio Code / Visual Studio
-* **Библиотеки:** `System.Numerics`
 
 ## Как запустить
 
