@@ -19,4 +19,4 @@
 1. Убедитесь, что у вас установлен .NET 10.0+ 
 2. Склонируйте репозиторий:
    ```bash
-  git clone https://github.com/nExytq/T-fibonacci.git
+   git clone https://github.com/nExytq/T-fibonacci.git
